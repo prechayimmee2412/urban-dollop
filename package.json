@@ -60,13 +60,13 @@
     "make-coverage-badge": "^1.2.0",
     "prettier": "^3.5.3",
     "prettier-eslint": "^16.4.1",
-    "rollup": "^4.40.0",
+    "rollup": "^4.41.0",
     "ts-jest": "^29.3.2",
     "ts-jest-resolver": "^2.0.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   },
   "optionalDependencies": {
-    "@rollup/rollup-linux-x64-gnu": "*"
+    "@rollup/rollup-linux-x64-gnu": "4.41.0"
   }
 }
